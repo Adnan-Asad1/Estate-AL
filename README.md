@@ -15,7 +15,7 @@ A machine learning web application that predicts home prices in Bangalore based 
 - **Backend**: Python, Flask, scikit-learn, NumPy
 - **Frontend**: HTML5, CSS3, JavaScript, jQuery
 - **Machine Learning**: Linear Regression model trained on Bangalore housing data
-- **Data Processing**: Pandas, feature engineering, outlier detection
+- **Data Processing**: Pandas, feature engineering, outlier detection.
 
 ## 📋 Prerequisites
 
